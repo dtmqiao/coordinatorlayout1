@@ -1,0 +1,1 @@
+include ':app', ':lbstest', ':aotocomplextextview', ':indexview', ':tpp2', ':gridviewtest', ':databasetest', ':searchtest'
